@@ -36,7 +36,7 @@
 ---
 
 ### 🟩 LeetCode Heatmap
-[![LeetCode Stats](https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=Karma&ext=contest)](https://leetcode.com/your-leetcode-username/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=Karma&ext=contest)](https://leetcode.com/divyanshiv10/)
 
 ---
 
