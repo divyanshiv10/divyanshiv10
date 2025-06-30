@@ -1,15 +1,15 @@
 ### Hi there 👋 I'm Divyanshi Vishwakarma!
 
 💻 I’m a passionate Computer Science student from VIT Bhopal.  
-🚀 I love building projects with **HTML, CSS, JavaScript, React**, and learning **DSA** for placements.  
+🚀 I love building projects with **HTML, CSS, JavaScript, React**, and sharpening my **DSA skills** for placements.  
 🎯 Currently exploring **open source contributions**, hackathons, and cool side projects.
 
 ---
 
 ### 🌟 About Me
-- 🔭 I’m working on improving my **web development** and **DSA skills**
-- 💡 I love collaborating on innovative ideas — especially women’s health and education tech
-- 🌱 I’m currently learning **Next.js**, **Bootstrap**, and **MERN stack**
+- 🔭 Improving my **web development** and **DSA skills**
+- 💡 Love collaborating on innovative ideas — especially women’s health and education tech
+- 🌱 Learning **Next.js**, **Bootstrap**, and **MERN stack**
 - ⚡ Fun fact: I enjoy balancing tech with creative hobbies!
 
 ---
@@ -36,31 +36,13 @@
 ---
 
 ### 🟩 LeetCode Heatmap
-[![LeetCode Stats](https://leetcard.jacoblin.cool/divyanshiv10?theme=dark&font=Karma&ext=contest)](https://leetcode.com/divyanshiv10/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/divyanshiv10?theme=dark&font=Karma&ext=contest)](https://leetcode.com/u/divyanshiv10)
 
 ---
 
 ### 📫 Let’s Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/your-link-here)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?logo=web&logoColor=fff)](your-portfolio-link)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/divyanshi-vishwakarma/)
 
 ---
 
 ✨ *Always ready to learn, collaborate, and build something amazing!*
-
-
-<!--
-**divyanshiv10/divyanshiv10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
