@@ -13,11 +13,11 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-- 🌱 I’m currently diving deep into **Next.js, TypeScript, and the MERN Stack**.
-- 👯 I’m looking to collaborate on **innovative open-source frontend projects**.
-- 💡 I'm passionate about developing tech for **women’s health and education**.
-- 💬 Ask me about **React, CSS, web performance, and DSA**.
-- ⚡ Fun fact: I believe the best UIs are born from a mix of logic and art!
+-  I’m currently diving deep into **Next.js, TypeScript, and the MERN Stack**.
+-  I’m looking to collaborate on **innovative open-source frontend projects**.
+-  I'm passionate about developing tech for **women’s health and education**.
+-  Ask me about **React, CSS, web performance, and DSA**.
+-  Fun fact: I believe the best UIs are born from a mix of logic and art!
 
 ---
 
@@ -30,7 +30,7 @@
 
 ---
 
-<h2 align="center">📊 My GitHub Journey</h2>
+<h2 align="center"> My GitHub Journey</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=divyanshiv10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Divyanshi's GitHub Stats"/>
   <br>
@@ -39,7 +39,7 @@
 
 ---
 
-<h2 align="center">🐍 My LeetCode Activity Snake</h2>
+<h2 align="center">🐍 My Activity </h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/divyanshiv10/divyanshiv10/main/dist/leetcode-snake-dark.svg" alt="LeetCode Snake"/>
 </p>
