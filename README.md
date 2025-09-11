@@ -1,95 +1,54 @@
-### Hi there  I'm Divyanshi Vishwakarma!
+<p align="center">
+  <img src="https://i.imgur.com/gmtDg5D.gif" width="100%" alt="Banner"/>
+</p>
 
+<div align="center">
+  <h1>Hi there, I'm Divyanshi Vishwakarma 👋</h1>
+  <p>A passionate Frontend Developer from India, focused on building beautiful and intuitive user interfaces. I'm currently crafting my skills in DSA and modern web technologies to build amazing things.</p>
+</div>
 
-
- I’m a passionate Computer Science student from VIT Bhopal.  
-
- I love building projects with **HTML, CSS, JavaScript, React**, and sharpening my **DSA skills** for placements.  
-
- Currently exploring **open source contributions**, hackathons, and cool side projects.
-
-
-
----
-
-
-
-###  About Me
-
--  Improving my **web development** and **DSA skills**
-
--  Love collaborating on innovative ideas — especially women’s health and education tech
-
--  Learning **Next.js**, **Bootstrap**, and **MERN stack**
-
--  Fun fact: I enjoy balancing tech with creative hobbies!
-
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/divyanshi-vishwakarma-profile2004/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://leetcode.com/u/divyanshiv10"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode"/></a>
+</p>
 
 ---
 
+<h2 align="center">🚀 About Me</h2>
 
-
-###  Languages & Tools
-
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
-
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
-
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
-
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
-
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code)
-
-
+- 🌱 I’m currently diving deep into **Next.js, TypeScript, and the MERN Stack**.
+- 👯 I’m looking to collaborate on **innovative open-source frontend projects**.
+- 💡 I'm passionate about developing tech for **women’s health and education**.
+- 💬 Ask me about **React, CSS, web performance, and DSA**.
+- ⚡ Fun fact: I believe the best UIs are born from a mix of logic and art!
 
 ---
 
-
-
-### 📈 GitHub Stats
-
-![Divyanshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyanshiv10&show_icons=true&theme=radical)
-
-
-
----
-
-
-
-### 🐍 Contribution Snake
-
-![snake gif](https://github.com/divyanshiv10/divyanshiv10/blob/output/github-contribution-grid-snake.svg)
-
-
+<h2 align="center">🛠️ My Tech Stack</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind" alt="Frontend Skills"/>
+  <br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,bootstrap,git,vscode,figma" alt="Backend and Tools"/>
+</p>
 
 ---
 
-
-
-### 🟩 LeetCode Heatmap
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/divyanshiv10?theme=dark&font=Noto%20Serif&ext=heatmap)](https://leetcode.com/u/divyanshiv10)
-
-
-
----
-
-
-
-### 📫 Let’s Connect!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/divyanshi-vishwakarma/)
-
-
+<h2 align="center">📊 My GitHub Journey</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=divyanshiv10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Divyanshi's GitHub Stats"/>
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=divyanshiv10&theme=tokyonight&column=7" alt="GitHub Trophies"/>
+</p>
 
 ---
 
+<h2 align="center">🐍 My Contribution Snake</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/divyanshiv10/divyanshiv10/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
 
-
-✨ *Always ready to learn, collaborate, and build something amazing!*
+---
+<p align="center">
+  ✨ <i>Always building, always learning.</i> ✨
+</p>
