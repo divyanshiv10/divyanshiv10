@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/gmtDg5D.gif" width="100%" alt="Banner"/>
-</p>
-
 <div align="center">
   <h1>Hi there, I'm Divyanshi Vishwakarma 👋</h1>
   <p>A passionate Frontend Developer from India, focused on building beautiful and intuitive user interfaces. I'm currently crafting my skills in DSA and modern web technologies to build amazing things.</p>
@@ -43,9 +39,9 @@
 
 ---
 
-<h2 align="center">🐍 My Contribution Snake</h2>
+<h2 align="center">🐍 My LeetCode Activity Snake</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/divyanshiv10/divyanshiv10/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/divyanshiv10/divyanshiv10/main/dist/leetcode-snake-dark.svg" alt="LeetCode Snake"/>
 </p>
 
 ---
