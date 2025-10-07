@@ -13,7 +13,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-- 🌱 I’m currently diving deep into **Next.js, TypeScript, and the MERN Stack**.
+- 🌱 I’m currently diving deep into **Problem Solving Techniques and MERN Stack**.
 - 👯 I’m looking to collaborate on **innovative open-source frontend projects**.
 - 💡 I'm passionate about developing tech for **women’s health and education**.
 - 💬 Ask me about **React, CSS, web performance, and DSA**.
