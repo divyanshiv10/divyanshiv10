@@ -38,7 +38,7 @@
 
 <h2 align="center">My LeetCode Heatmap</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/divyanshiv10/divyanshiv10/main/dist/leetcode-snake-dark.svg" alt="LeetCode Heatmap" />
+  <img src="https://leetcard.jacoblin.cool/divyanshiv10?theme=dark&font=Roboto&extension=heatmap" alt="LeetCode Heatmap" />
 </p>
 
 ---
