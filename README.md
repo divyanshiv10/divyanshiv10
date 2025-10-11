@@ -14,8 +14,7 @@
 <h2 align="center">About Me</h2>
 
 - I’m currently exploring **Problem Solving Techniques and MERN Stack Development**.  
-- I’m looking to collaborate on **innovative and impactful web projects**.  
-- Passionate about building solutions for **women’s health and education**.  
+- I’m looking to collaborate on **innovative and impactful web projects**.    
 - Ask me about **React, CSS, JavaScript, and web development best practices**.  
 - I believe that great user interfaces are created through a perfect balance of **logic and creativity**.  
 
@@ -33,6 +32,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=divyanshiv10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Divyanshi's GitHub Stats"/>
   <br>
   <img src="https://github-profile-trophy.vercel.app/?username=divyanshiv10&theme=tokyonight&column=7" alt="GitHub Trophies"/>
+</p>
+
+---
+
+<h2 align="center">My LeetCode Heatmap</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/divyanshiv10/divyanshiv10/main/dist/leetcode-snake-dark.svg" alt="LeetCode Heatmap" />
 </p>
 
 ---
