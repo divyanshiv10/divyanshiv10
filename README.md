@@ -27,12 +27,6 @@
 
 ---
 
-<h2 align="center">My GitHub Journey</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyanshiv10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Divyanshi's GitHub Stats"/>
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=divyanshiv10&theme=tokyonight&column=7" alt="GitHub Trophies"/>
-</p>
 
 ---
 
