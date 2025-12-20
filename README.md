@@ -36,6 +36,10 @@
 </p>
 
 ---
+<h2 align="center">🐍 Contribution Graph Snake</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/divyanshiv10/divyanshiv10/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 
 <p align="center">
   <i>Always building, always learning.</i>
